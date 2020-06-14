@@ -6,7 +6,7 @@ COVID-19 Tracking app that uses https://covid19api.com/ to track various stats.
 
 How to run project
 --------------------  
-Download repository and extract to folder. From there open the folder in Android Studio and run an emulator or on your android device (minimum sdk is 22).
+Download repository and extract to folder. From there open the folder in Android Studio and run an emulator or on an android device (minimum sdk is 22).
 
 Pictures  
 --------
